@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    align-items: center;
+    margin: 0%;
+    padding: 0%;
+    background: #fff;
+}
+.container-xl{
+    position: relative;
+    border: 1px solid rgb(27, 27, 13);
+    top: 91px;
+    width: 458px;
+    height: 484px;
+    border-radius: 13px;
+    background-color: #0057ff99;
+}
+label{
+    font-size: 24px;
+}
+.container{
+    position: relative;
+    border: 2px solid rgb(97, 18, 201);
+    width: 400px;
+    height: 300px;
+    top: 100px;
+}
